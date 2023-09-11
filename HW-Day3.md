@@ -15,25 +15,22 @@ Expected Output:
 Reverse string: xof nworb kciuq ehT
 
 
-### 3.Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+### 3.Write a program to find the factorial value of any number entered through the keyboard. 
 
 
-### 4.Write a program to find the factorial value of any number entered through the keyboard. 
+### 4.Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another. (Do not use Java built-in method)
 
 
-### 5.Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another. (Do not use Java built-in method)
+### 5.Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
 
 
-### 6.Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+### 6.Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime number. 
 
 
-### 7.Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime number. 
+### 7.Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
 
 
-### 8.Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
-
-
-### 9.Use a for loop to print headings for four weeks (Weeks 1 - 4). Then use another for loop to print the days (Days 1 -7) for each week.
+### 8.Use a for loop to print headings for four weeks (Weeks 1 - 4). Then use another for loop to print the days (Days 1 -7) for each week.
 Expected Output:
 
 Week 1
@@ -61,5 +58,5 @@ Week 2
  ...
  
  
-### 10.Write a program thats check if the word is a palindrome or not. hint: A string is said to be a palindrome if it is the same if we start reading it from left to right or right to left.
+### 9.Write a program thats check if the word is a palindrome or not. hint: A string is said to be a palindrome if it is the same if we start reading it from left to right or right to left.
  
